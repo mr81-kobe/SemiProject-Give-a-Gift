@@ -1,0 +1,23 @@
+package ScheduelMethod;
+
+public class ScDTO {
+	private String  start; 
+	private String  end;
+	public ScDTO() {
+		// TODO Auto-generated constructor stub
+	}
+	public String getStart() {
+		return start;
+	}
+	public void setStart(String start) {
+		this.start = start;
+	}
+	public String getEnd() {
+		return end;
+	}
+	public void setEnd(String end) {
+		this.end = end;
+	}
+	
+
+}
